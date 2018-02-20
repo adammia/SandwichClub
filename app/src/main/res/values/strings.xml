@@ -28,7 +28,7 @@
 
     <string-array name="sandwich_details">
         <item>{\"name\":{\"mainName\":\"Ham and cheese
-            sandwich\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"\",\"description\":\"A ham and cheese
+            sandwich\",\"alsoKnownAs\":[\"French Toast\"]},\"placeOfOrigin\":\"Unknown\",\"description\":\"A ham and cheese
             sandwich is a common type of sandwich. It is made by putting cheese and sliced ham
             between two slices of bread. The bread is sometimes buttered and/or toasted. Vegetables
             like lettuce, tomato, onion or pickle slices can also be included. Various kinds of
@@ -37,14 +37,14 @@
             bread\",\"Cheese\",\"Ham\"]}
         </item>
         <item>
-            {\"name\":{\"mainName\":\"Bosna\",\"alsoKnownAs\":[\"Bosner\"]},\"placeOfOrigin\":\"Austria\",\"description\":\"Bosna
+            {\"name\":{\"mainName\":\"Bosna\",\"alsoKnownAs\":[\"Nadanitza\"]},\"placeOfOrigin\":\"Austria\",\"description\":\"Bosna
             is a spicy Austrian fast food dish, said to have originated in either Salzburg or Linz.
             It is now popular all over western Austria and southern
             Bavaria.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/c/ca/Bosna_mit_2_Bratw%C3%BCrsten.jpg\",\"ingredients\":[\"White
             bread\",\"Bratwurst\",\"Onions\",\"Tomato ketchup\",\"Mustard\",\"Curry powder\"]}
         </item>
         <item>
-            {\"name\":{\"mainName\":\"Chivito\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Uruguay\",\"description\":\"Chivito
+            {\"name\":{\"mainName\":\"Chivito\",\"alsoKnownAs\":[\"Lomito\"]},\"placeOfOrigin\":\"Uruguay\",\"description\":\"Chivito
             is a national dish of Uruguay, It is a thin slice of tender cooked beef steak
             (churrasco), with mozzarella, tomatoes, mayonnaise, black or green olives, and commonly
             also bacon, fried or hard-boiled eggs and ham, served as a sandwich in a bun, often
@@ -83,7 +83,8 @@
             bread\",\"Roast pork\",\"Ham\",\"Mustard\",\"Swiss cheese\",\"Dill pickles\"]}
         </item>
         <item>
-            {\"name\":{\"mainName\":\"Pljeskavica\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Serbia\",\"description\":\"Pljeskavica,
+            {\"name\":{\"mainName\":\"Pljeskavica\",\"alsoKnownAs\":[\"Serbian
+            Burger\"]},\"placeOfOrigin\":\"Serbia\",\"description\":\"Pljeskavica,
             a grilled dish of spiced meat patty mixture of pork, beef and lamb, is a national dish
             of Serbia, also popular in Bosnia and Herzegovina and Croatia. It is a main course
             served with onions, kajmak (milk cream), ajvar (relish), and urnebes (spicy cheese
@@ -101,7 +102,7 @@
             possible to use only a few spices (which many vendors do), the resulting meat is less
             flavourful.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roujiamo.jpg/800px-Roujiamo.jpg\",\"ingredients\":[\"Pork\",\"bread\"]}
         </item>
-        <item>{\"name\":{\"mainName\":\"Shawarma\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Middle East,
+        <item>{\"name\":{\"mainName\":\"Shawarma\",\"alsoKnownAs\":[\"Levanian Burger\"]},\"placeOfOrigin\":\"Middle East,
             Levant\",\"description\":\"Shawarma also spelled shawurma or shawerma, is a Levantine
             meat preparation, where lamb, chicken, turkey, beef, veal, or mixed meats are placed on
             a spit (commonly a vertical spit in restaurants), and may be grilled for as long as a
